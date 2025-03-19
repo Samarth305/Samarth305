@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FarmSE website<br>👯 I’m learning Web Development<br>🤝 I’m looking for help with FrontEnd<br>🌱 I’m currently learning Python and Java<br>💬 Ask me about C++ and DSA<br>⚡ Fun fact - I am a good listener and Photographer<br>
+🔭 I’m currently working on FarmSE website<br>👯 I’m learning Web Development<br>🤝 I’m looking for help with FrontEnd<br>🌱 I’m currently learning Python and Java<br>💬 Ask me about C++ and DSA<br>⚡ Fun fact - I am a Good Photographer and loves to binge.<br>
 
 
 ## 🌐 Socials:
